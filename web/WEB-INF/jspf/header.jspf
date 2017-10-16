@@ -1,0 +1,15 @@
+
+<%@ page pageEncoding="UTF-8" %>
+<div class="navbar navbar-inverse">
+  <div class="navbar-inner">
+    <
+    <ul class="nav">
+        <li><a href="home.jsp">Home</a></li>
+      <li><a href="passageiro.jsp">Passageiros</a></li>
+      <li><a href="motorista.jsp">Motoristas</a></li>
+      <li><a href="corrida.jsp">Corridas</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- class="active"-->
